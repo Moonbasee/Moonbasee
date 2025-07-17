@@ -1,2 +1,3 @@
-<h1>Moonbase__</h1>
-you might know me, you might not, either way just pretend you don't
+# Moonbase
+My projects are not here. They are on my Git Server at https://git.alanmoon.net
+I have no issues with GitHub, just would rather put projects in a place that I control (self-hosting freak)
